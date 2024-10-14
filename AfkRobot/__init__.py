@@ -3,7 +3,7 @@
 import asyncio
 import time
 
-from motor.motor_asyncio import AsyncIOMotorClient as MongoClient
+#from motor.motor_asyncio import AsyncIOMotorClient as MongoClient
 from pyrogram import Client
 
 import config
